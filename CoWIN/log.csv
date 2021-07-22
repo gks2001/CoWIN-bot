@@ -1,0 +1,1722 @@
+DATE,TIME,NAME,AREA,FEE,DOSE 1,VACCINE
+31-05-2021,11:03:31,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:03:47,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:04:03,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:04:18,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:10:28,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:10:43,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:10:59,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:11:15,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:11:30,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:11:30,Kavery Hospital-Covaxin,Teynampet,Paid,77,COVAXIN
+31-05-2021,11:11:47,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:11:47,Kavery Hospital-Covaxin,Teynampet,Paid,77,COVAXIN
+31-05-2021,11:12:03,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:12:03,Kavery Hospital-Covaxin,Teynampet,Paid,77,COVAXIN
+31-05-2021,11:12:19,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:12:19,Kavery Hospital-Covaxin,Teynampet,Paid,77,COVAXIN
+31-05-2021,11:12:35,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,11:12:35,Apollo Mains Greams,Teynampet,Paid,3,COVAXIN
+31-05-2021,11:12:51,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,11:12:51,Apollo Mains Greams,Teynampet,Paid,3,COVAXIN
+31-05-2021,11:13:07,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,11:13:07,Apollo Mains Greams,Teynampet,Paid,3,COVAXIN
+31-05-2021,11:13:23,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,11:13:23,Apollo Mains Greams,Teynampet,Paid,3,COVAXIN
+31-05-2021,11:13:39,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:13:39,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:13:55,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:13:55,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:14:11,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:14:11,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:14:27,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:14:27,Kavery Hospital-Covaxin,Teynampet,Paid,44,COVAXIN
+31-05-2021,11:14:27,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:14:44,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:14:44,Kavery Hospital-Covaxin,Teynampet,Paid,44,COVAXIN
+31-05-2021,11:14:44,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:15:00,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:15:00,Kavery Hospital-Covaxin,Teynampet,Paid,44,COVAXIN
+31-05-2021,11:15:00,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:15:17,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:15:17,Kavery Hospital-Covaxin,Teynampet,Paid,44,COVAXIN
+31-05-2021,11:15:17,Kavery Hospital-Covaxin,Teynampet,Paid,100,COVAXIN
+31-05-2021,11:15:33,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:15:33,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,11:15:33,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:15:33,Kavery Hospital-Covaxin,Teynampet,Paid,93,COVAXIN
+31-05-2021,11:15:50,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:15:50,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,11:15:50,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:15:50,Kavery Hospital-Covaxin,Teynampet,Paid,93,COVAXIN
+31-05-2021,11:16:07,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:16:07,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,11:16:07,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:16:07,Kavery Hospital-Covaxin,Teynampet,Paid,93,COVAXIN
+31-05-2021,11:16:24,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:16:24,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,11:16:24,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:16:24,Kavery Hospital-Covaxin,Teynampet,Paid,93,COVAXIN
+31-05-2021,11:16:41,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:16:41,Kavery Hospital-Covaxin,Teynampet,Paid,60,COVAXIN
+31-05-2021,11:16:57,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:16:57,Kavery Hospital-Covaxin,Teynampet,Paid,60,COVAXIN
+31-05-2021,11:17:13,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:17:13,Kavery Hospital-Covaxin,Teynampet,Paid,60,COVAXIN
+31-05-2021,11:17:29,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:17:29,Kavery Hospital-Covaxin,Teynampet,Paid,22,COVAXIN
+31-05-2021,11:17:45,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:17:45,Kavery Hospital-Covaxin,Teynampet,Paid,22,COVAXIN
+31-05-2021,11:18:01,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:18:01,Kavery Hospital-Covaxin,Teynampet,Paid,22,COVAXIN
+31-05-2021,11:18:17,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:18:17,Kavery Hospital-Covaxin,Teynampet,Paid,22,COVAXIN
+31-05-2021,11:18:33,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:18:49,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:19:04,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:19:20,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:20:37,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:20:53,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:21:09,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:21:25,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:21:41,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+31-05-2021,11:21:57,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+31-05-2021,11:22:13,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+31-05-2021,11:24:32,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,160,COVAXIN
+31-05-2021,11:24:32,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:24:32,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:24:32,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:24:32,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:24:49,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,160,COVAXIN
+31-05-2021,11:24:49,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:24:49,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:24:49,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:24:49,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:06,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,160,COVAXIN
+31-05-2021,11:25:06,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:06,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:06,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:06,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:24,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,160,COVAXIN
+31-05-2021,11:25:24,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:24,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:24,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:24,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:41,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,65,COVAXIN
+31-05-2021,11:25:41,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:25:41,COVAXIN Apollo Spectra Hospita,Adyar,Paid,1,COVAXIN
+31-05-2021,11:25:41,Apollo Mains Greams,Teynampet,Paid,5,COVAXIN
+31-05-2021,11:25:41,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:25:41,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:41,Kavery Hospital-Covaxin,Teynampet,Paid,3,COVAXIN
+31-05-2021,11:25:59,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,65,COVAXIN
+31-05-2021,11:25:59,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:25:59,COVAXIN Apollo Spectra Hospita,Adyar,Paid,1,COVAXIN
+31-05-2021,11:25:59,Apollo Mains Greams,Teynampet,Paid,5,COVAXIN
+31-05-2021,11:25:59,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:25:59,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:25:59,Kavery Hospital-Covaxin,Teynampet,Paid,3,COVAXIN
+31-05-2021,11:26:17,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,65,COVAXIN
+31-05-2021,11:26:17,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:26:17,COVAXIN Apollo Spectra Hospita,Adyar,Paid,1,COVAXIN
+31-05-2021,11:26:17,Apollo Mains Greams,Teynampet,Paid,5,COVAXIN
+31-05-2021,11:26:17,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,11:26:17,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:26:17,Kavery Hospital-Covaxin,Teynampet,Paid,3,COVAXIN
+31-05-2021,11:26:35,COVAXIN Apollo Spectra Hospita,Adyar,Paid,1,COVAXIN
+31-05-2021,11:26:35,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:26:51,COVAXIN Apollo Spectra Hospita,Adyar,Paid,1,COVAXIN
+31-05-2021,11:26:51,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:27:08,COVAXIN Apollo Spectra Hospita,Adyar,Paid,1,COVAXIN
+31-05-2021,11:27:08,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:27:24,COVAXIN Apollo Spectra Hospita,Adyar,Paid,1,COVAXIN
+31-05-2021,11:27:24,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:27:40,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:27:56,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:28:12,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:28:27,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+31-05-2021,11:28:43,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+31-05-2021,11:28:59,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+11:57:44,adf,123,,,,
+31-05-2021,21:43:09,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+31-05-2021,21:43:26,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+31-05-2021,21:43:41,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+31-05-2021,22:06:24,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+31-05-2021,22:06:40,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+31-05-2021,22:06:56,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+31-05-2021,22:07:11,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+31-05-2021,22:07:27,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:07:43,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:07:58,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:08:14,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:11:34,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:11:50,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:12:05,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:12:21,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:15:40,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,22:15:55,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,22:16:11,B M Hospitals,Alandur,Paid,1,COVAXIN
+31-05-2021,22:25:33,APOLLO CLINIC COVAXIN MADIPAKA,Perungudi,Paid,1,COVAXIN
+31-05-2021,22:25:49,APOLLO CLINIC COVAXIN MADIPAKA,Perungudi,Paid,1,COVAXIN
+31-05-2021,22:26:04,APOLLO CLINIC COVAXIN MADIPAKA,Perungudi,Paid,1,COVAXIN
+31-05-2021,22:26:20,APOLLO CLINIC COVAXIN MADIPAKA,Perungudi,Paid,1,COVAXIN
+31-05-2021,22:26:36,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,22:26:51,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,22:27:07,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,22:27:22,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,22:38:47,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:39:02,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:39:18,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:39:34,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+31-05-2021,22:41:51,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,22:42:06,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,22:42:22,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+31-05-2021,22:42:37,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:01:29,Apollo Mains Greams,Teynampet,Paid,520,COVAXIN
+01-06-2021,08:01:45,Apollo Mains Greams,Teynampet,Paid,520,COVAXIN
+01-06-2021,08:02:01,Apollo Mains Greams,Teynampet,Paid,520,COVAXIN
+01-06-2021,08:02:16,Apollo Mains Greams,Teynampet,Paid,520,COVAXIN
+01-06-2021,08:02:32,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:02:32,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:02:32,Apollo Mains Greams,Teynampet,Paid,505,COVAXIN
+01-06-2021,08:02:48,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:02:48,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:02:48,Apollo Mains Greams,Teynampet,Paid,505,COVAXIN
+01-06-2021,08:03:05,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:03:05,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:03:05,Apollo Mains Greams,Teynampet,Paid,505,COVAXIN
+01-06-2021,08:03:21,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:03:21,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:03:21,Apollo Mains Greams,Teynampet,Paid,505,COVAXIN
+01-06-2021,08:03:37,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:03:37,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:03:37,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,3,COVAXIN
+01-06-2021,08:03:37,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:03:37,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,08:03:37,Apollo Mains Greams,Teynampet,Paid,450,COVAXIN
+01-06-2021,08:03:55,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:03:55,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:03:55,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,3,COVAXIN
+01-06-2021,08:03:55,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:03:55,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,08:03:55,Apollo Mains Greams,Teynampet,Paid,450,COVAXIN
+01-06-2021,08:04:12,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:04:12,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:04:12,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,3,COVAXIN
+01-06-2021,08:04:12,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:04:12,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,08:04:12,Apollo Mains Greams,Teynampet,Paid,450,COVAXIN
+01-06-2021,08:04:29,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:04:29,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:04:29,Apollo Mains Greams,Teynampet,Paid,417,COVAXIN
+01-06-2021,08:04:46,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:04:46,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:04:46,Apollo Mains Greams,Teynampet,Paid,417,COVAXIN
+01-06-2021,08:05:02,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:05:02,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:05:02,Apollo Mains Greams,Teynampet,Paid,417,COVAXIN
+01-06-2021,08:05:19,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:05:19,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:05:19,Apollo Mains Greams,Teynampet,Paid,417,COVAXIN
+01-06-2021,08:05:22,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:05:22,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:05:22,Apollo Mains Greams,Teynampet,Paid,417,COVAXIN
+01-06-2021,08:05:35,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:05:35,Apollo Mains Greams,Teynampet,Paid,372,COVAXIN
+01-06-2021,08:05:35,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:05:51,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:05:51,Apollo Mains Greams,Teynampet,Paid,372,COVAXIN
+01-06-2021,08:05:51,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:05:57,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:05:57,Apollo Mains Greams,Teynampet,Paid,372,COVAXIN
+01-06-2021,08:05:57,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:06:08,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:06:08,Apollo Mains Greams,Teynampet,Paid,372,COVAXIN
+01-06-2021,08:06:08,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:06:25,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:06:25,Apollo Mains Greams,Teynampet,Paid,336,COVAXIN
+01-06-2021,08:06:25,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:06:41,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:06:41,Apollo Mains Greams,Teynampet,Paid,336,COVAXIN
+01-06-2021,08:06:41,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:06:51,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:06:51,Apollo Mains Greams,Teynampet,Paid,336,COVAXIN
+01-06-2021,08:06:51,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:06:57,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:06:57,Apollo Mains Greams,Teynampet,Paid,336,COVAXIN
+01-06-2021,08:06:57,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:08:16,Apollo Mains Greams,Teynampet,Paid,300,COVAXIN
+01-06-2021,08:08:44,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:08:44,Apollo Mains Greams,Teynampet,Paid,268,COVAXIN
+01-06-2021,08:09:01,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:09:01,Apollo Mains Greams,Teynampet,Paid,268,COVAXIN
+01-06-2021,08:09:17,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:09:17,Apollo Mains Greams,Teynampet,Paid,268,COVAXIN
+01-06-2021,08:09:33,Apollo Mains Greams,Teynampet,Paid,242,COVAXIN
+01-06-2021,08:09:48,Apollo Mains Greams,Teynampet,Paid,242,COVAXIN
+01-06-2021,08:10:04,Apollo Mains Greams,Teynampet,Paid,242,COVAXIN
+01-06-2021,08:10:20,Apollo Mains Greams,Teynampet,Paid,242,COVAXIN
+01-06-2021,08:10:36,Apollo Mains Greams,Teynampet,Paid,215,COVAXIN
+01-06-2021,08:10:51,Apollo Mains Greams,Teynampet,Paid,215,COVAXIN
+01-06-2021,08:11:07,Apollo Mains Greams,Teynampet,Paid,215,COVAXIN
+01-06-2021,08:11:23,Apollo Mains Greams,Teynampet,Paid,215,COVAXIN
+01-06-2021,08:11:38,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,08:11:38,Apollo Mains Greams,Teynampet,Paid,187,COVAXIN
+01-06-2021,08:11:54,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,08:11:54,Apollo Mains Greams,Teynampet,Paid,187,COVAXIN
+01-06-2021,08:12:10,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,08:12:10,Apollo Mains Greams,Teynampet,Paid,187,COVAXIN
+01-06-2021,08:12:26,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:12:26,Apollo Mains Greams,Teynampet,Paid,166,COVAXIN
+01-06-2021,08:12:42,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:12:42,Apollo Mains Greams,Teynampet,Paid,166,COVAXIN
+01-06-2021,08:12:58,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:12:58,Apollo Mains Greams,Teynampet,Paid,166,COVAXIN
+01-06-2021,08:13:14,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:13:14,Apollo Mains Greams,Teynampet,Paid,166,COVAXIN
+01-06-2021,08:13:30,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:13:30,Apollo Mains Greams,Teynampet,Paid,147,COVAXIN
+01-06-2021,08:13:46,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:13:46,Apollo Mains Greams,Teynampet,Paid,147,COVAXIN
+01-06-2021,08:14:02,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:14:02,Apollo Mains Greams,Teynampet,Paid,147,COVAXIN
+01-06-2021,08:14:18,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,08:14:18,Apollo Mains Greams,Teynampet,Paid,147,COVAXIN
+01-06-2021,08:14:34,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:14:34,Apollo Mains Greams,Teynampet,Paid,2,COVAXIN
+01-06-2021,08:14:34,Apollo Mains Greams,Teynampet,Paid,123,COVAXIN
+01-06-2021,08:14:51,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:14:51,Apollo Mains Greams,Teynampet,Paid,2,COVAXIN
+01-06-2021,08:14:51,Apollo Mains Greams,Teynampet,Paid,123,COVAXIN
+01-06-2021,08:15:07,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:15:07,Apollo Mains Greams,Teynampet,Paid,2,COVAXIN
+01-06-2021,08:15:07,Apollo Mains Greams,Teynampet,Paid,123,COVAXIN
+01-06-2021,08:15:23,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:15:23,Apollo Mains Greams,Teynampet,Paid,2,COVAXIN
+01-06-2021,08:15:23,Apollo Mains Greams,Teynampet,Paid,123,COVAXIN
+01-06-2021,08:15:40,Apollo Mains Greams,Teynampet,Paid,111,COVAXIN
+01-06-2021,08:15:55,Apollo Mains Greams,Teynampet,Paid,111,COVAXIN
+01-06-2021,08:16:11,Apollo Mains Greams,Teynampet,Paid,111,COVAXIN
+01-06-2021,08:16:26,Apollo Mains Greams,Teynampet,Paid,89,COVAXIN
+01-06-2021,08:16:42,Apollo Mains Greams,Teynampet,Paid,89,COVAXIN
+01-06-2021,08:16:58,Apollo Mains Greams,Teynampet,Paid,89,COVAXIN
+01-06-2021,08:17:13,Apollo Mains Greams,Teynampet,Paid,89,COVAXIN
+01-06-2021,08:17:29,Apollo Mains Greams,Teynampet,Paid,73,COVAXIN
+01-06-2021,08:17:29,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:17:45,Apollo Mains Greams,Teynampet,Paid,73,COVAXIN
+01-06-2021,08:17:45,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:18:01,Apollo Mains Greams,Teynampet,Paid,73,COVAXIN
+01-06-2021,08:18:01,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:18:17,Apollo Mains Greams,Teynampet,Paid,73,COVAXIN
+01-06-2021,08:18:17,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:18:33,Apollo Mains Greams,Teynampet,Paid,47,COVAXIN
+01-06-2021,08:18:48,Apollo Mains Greams,Teynampet,Paid,47,COVAXIN
+01-06-2021,08:19:04,Apollo Mains Greams,Teynampet,Paid,47,COVAXIN
+01-06-2021,08:19:20,Apollo Mains Greams,Teynampet,Paid,47,COVAXIN
+01-06-2021,08:19:35,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:19:35,Apollo Mains Greams,Teynampet,Paid,34,COVAXIN
+01-06-2021,08:19:51,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:19:51,Apollo Mains Greams,Teynampet,Paid,34,COVAXIN
+01-06-2021,08:20:08,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:20:08,Apollo Mains Greams,Teynampet,Paid,34,COVAXIN
+01-06-2021,08:20:24,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:20:24,Apollo Mains Greams,Teynampet,Paid,34,COVAXIN
+01-06-2021,08:20:40,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:20:40,Apollo Mains Greams,Teynampet,Paid,16,COVAXIN
+01-06-2021,08:20:56,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:20:56,Apollo Mains Greams,Teynampet,Paid,16,COVAXIN
+01-06-2021,08:21:12,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:21:12,Apollo Mains Greams,Teynampet,Paid,16,COVAXIN
+01-06-2021,08:22:29,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:22:44,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:23:00,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:23:16,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:23:31,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:23:47,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:24:03,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:24:18,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:24:34,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:24:50,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:25:05,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:25:21,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:28:40,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,08:28:56,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,08:29:11,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,08:29:27,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:29:27,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:29:43,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:29:43,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:29:59,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:29:59,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:30:15,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,08:30:15,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:33:35,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:33:51,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:34:06,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:34:22,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:40:30,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:40:46,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:41:01,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:41:17,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:43:34,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:43:50,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:44:06,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:44:21,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:48:42,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:48:58,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:49:13,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:49:29,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:56:38,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:56:54,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:57:09,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:57:25,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,08:59:43,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,08:59:59,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:00:14,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:00:30,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:04:50,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:05:06,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:05:22,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:05:53,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:06:08,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:06:24,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:15:48,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,09:16:03,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,09:16:19,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,09:16:35,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,09:17:51,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:18:06,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:18:22,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:18:37,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:24:42,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:24:58,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:25:13,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:25:29,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:30:48,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,118,COVAXIN
+01-06-2021,09:31:03,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,118,COVAXIN
+01-06-2021,09:31:19,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,118,COVAXIN
+01-06-2021,09:31:34,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,118,COVAXIN
+01-06-2021,09:31:50,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,119,COVAXIN
+01-06-2021,09:31:50,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:31:50,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:32:06,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,119,COVAXIN
+01-06-2021,09:32:06,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:32:06,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:32:23,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,119,COVAXIN
+01-06-2021,09:32:23,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:32:23,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:32:39,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,119,COVAXIN
+01-06-2021,09:32:39,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:32:39,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:32:55,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,80,COVAXIN
+01-06-2021,09:32:55,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:32:55,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,09:33:11,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,80,COVAXIN
+01-06-2021,09:33:11,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:33:11,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,09:33:28,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,80,COVAXIN
+01-06-2021,09:33:28,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:33:28,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,09:33:44,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,09:33:44,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,49,COVAXIN
+01-06-2021,09:33:44,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,3,COVAXIN
+01-06-2021,09:34:00,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,09:34:00,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,49,COVAXIN
+01-06-2021,09:34:00,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,3,COVAXIN
+01-06-2021,09:34:16,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,09:34:16,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,49,COVAXIN
+01-06-2021,09:34:16,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,3,COVAXIN
+01-06-2021,09:34:33,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,09:34:33,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,49,COVAXIN
+01-06-2021,09:34:33,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,3,COVAXIN
+01-06-2021,09:34:49,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,35,COVAXIN
+01-06-2021,09:35:04,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,35,COVAXIN
+01-06-2021,09:35:20,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,35,COVAXIN
+01-06-2021,09:35:35,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,35,COVAXIN
+01-06-2021,09:35:51,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:35:51,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,8,COVAXIN
+01-06-2021,09:35:51,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:36:07,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:36:07,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,8,COVAXIN
+01-06-2021,09:36:07,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:36:23,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:36:23,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,8,COVAXIN
+01-06-2021,09:36:23,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:36:40,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,09:36:40,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,8,COVAXIN
+01-06-2021,09:36:40,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:36:56,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,09:37:11,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,09:37:27,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,09:38:43,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:38:59,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:39:14,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:39:30,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:39:45,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:39:45,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:40:01,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:40:01,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:40:17,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:40:17,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:40:33,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:40:33,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:43:51,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,09:44:06,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,09:44:22,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,09:44:37,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,09:51:57,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,09:52:13,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,09:52:28,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,09:52:44,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,09:52:59,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:53:15,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:53:31,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,09:59:50,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:00:05,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:00:21,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:00:36,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:01:53,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,10:02:08,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,10:02:24,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,10:02:39,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,10:02:55,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:03:10,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:03:26,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:03:42,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:07:00,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,100,COVAXIN
+01-06-2021,10:07:00,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:07:16,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,100,COVAXIN
+01-06-2021,10:07:16,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:07:32,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,100,COVAXIN
+01-06-2021,10:07:32,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:07:48,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,100,COVAXIN
+01-06-2021,10:07:48,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:08:04,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,92,COVAXIN
+01-06-2021,10:08:04,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,10:08:20,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,92,COVAXIN
+01-06-2021,10:08:20,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,10:08:35,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,92,COVAXIN
+01-06-2021,10:08:35,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,10:08:52,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,72,COVAXIN
+01-06-2021,10:08:52,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:09:07,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,72,COVAXIN
+01-06-2021,10:09:07,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:09:23,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,63,COVAXIN
+01-06-2021,10:09:23,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:09:23,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,10:09:39,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,63,COVAXIN
+01-06-2021,10:09:39,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:09:39,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,10:09:56,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,63,COVAXIN
+01-06-2021,10:09:56,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:09:56,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,10:10:12,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,35,COVAXIN
+01-06-2021,10:10:12,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:10:12,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:10:28,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,35,COVAXIN
+01-06-2021,10:10:28,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:10:28,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:10:44,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,35,COVAXIN
+01-06-2021,10:10:44,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:10:44,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:11:01,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,35,COVAXIN
+01-06-2021,10:11:01,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:11:01,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:11:17,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,16,COVAXIN
+01-06-2021,10:11:32,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,16,COVAXIN
+01-06-2021,10:11:48,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,16,COVAXIN
+01-06-2021,10:12:04,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,16,COVAXIN
+01-06-2021,10:14:20,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:14:36,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:14:51,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:15:07,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:29:47,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:29:47,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:30:04,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:30:04,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:30:20,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:30:20,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:30:36,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:30:36,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:32:53,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,10:33:08,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,10:33:24,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,10:33:39,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,10:33:55,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:34:10,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:34:26,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:43:48,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,10:44:04,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,10:44:19,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,10:44:35,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,10:44:50,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,10:44:50,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:45:06,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,10:45:06,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:45:22,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,10:45:22,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:45:38,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,10:45:38,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:45:54,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:46:10,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:46:25,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:46:41,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:59:37,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:59:37,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,10:59:53,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,10:59:53,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,11:00:09,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:00:09,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,11:00:25,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:00:25,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,11:03:44,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:04:00,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:04:15,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:04:31,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:04:47,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:05:02,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:05:18,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:05:34,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:08:37,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:08:53,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:09:08,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:09:24,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:15:45,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:16:01,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:16:16,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:16:32,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:16:48,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:17:03,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:17:19,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:17:34,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:21:54,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:22:10,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:22:26,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:22:41,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:34:52,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:35:07,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:35:23,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:35:39,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:38:57,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:39:13,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:39:28,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:39:44,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:46:05,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,100,COVAXIN
+01-06-2021,11:46:20,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,100,COVAXIN
+01-06-2021,11:46:36,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,100,COVAXIN
+01-06-2021,11:47:07,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,2,COVAXIN
+01-06-2021,11:47:07,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,77,COVAXIN
+01-06-2021,11:47:07,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,11:47:07,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:47:23,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,2,COVAXIN
+01-06-2021,11:47:23,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,77,COVAXIN
+01-06-2021,11:47:23,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,11:47:23,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:47:40,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,2,COVAXIN
+01-06-2021,11:47:40,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,77,COVAXIN
+01-06-2021,11:47:40,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,11:47:40,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:47:57,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,28,COVAXIN
+01-06-2021,11:47:57,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,11:47:57,Apollo Mains Greams,Teynampet,Paid,3,COVAXIN
+01-06-2021,11:47:57,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:47:57,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:48:13,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,28,COVAXIN
+01-06-2021,11:48:14,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,11:48:14,Apollo Mains Greams,Teynampet,Paid,3,COVAXIN
+01-06-2021,11:48:14,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:48:14,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:48:30,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,28,COVAXIN
+01-06-2021,11:48:30,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,11:48:30,Apollo Mains Greams,Teynampet,Paid,3,COVAXIN
+01-06-2021,11:48:30,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:48:30,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:48:47,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,28,COVAXIN
+01-06-2021,11:48:47,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,2,COVAXIN
+01-06-2021,11:48:47,Apollo Mains Greams,Teynampet,Paid,3,COVAXIN
+01-06-2021,11:48:47,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:48:47,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:49:04,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,3,COVAXIN
+01-06-2021,11:49:20,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,3,COVAXIN
+01-06-2021,11:49:36,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,3,COVAXIN
+01-06-2021,11:49:51,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,3,COVAXIN
+01-06-2021,11:50:07,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,11:50:23,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,11:50:38,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,11:51:09,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:51:24,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:51:40,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:51:56,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:52:11,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:52:27,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:52:42,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,11:53:59,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:54:29,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:54:45,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:57:02,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:57:18,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:57:33,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,11:57:49,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,12:00:06,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,12:00:22,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,12:00:38,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,12:00:53,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,12:08:16,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,12:08:32,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,12:08:47,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,12:19:12,Apollo Mains Greams,Teynampet,Paid,2,COVAXIN
+01-06-2021,12:19:27,Apollo Mains Greams,Teynampet,Paid,2,COVAXIN
+01-06-2021,12:19:43,Apollo Mains Greams,Teynampet,Paid,2,COVAXIN
+01-06-2021,12:19:59,Apollo Mains Greams,Teynampet,Paid,2,COVAXIN
+01-06-2021,12:24:18,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,12:24:18,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,12:24:34,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,12:24:34,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,12:24:50,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,12:24:50,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,12:25:06,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,12:25:06,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,12:33:29,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,12:33:45,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,12:34:00,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,13:06:43,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,13:06:59,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,13:07:14,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,13:07:30,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,13:12:48,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,6,COVAXIN
+01-06-2021,13:13:04,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,6,COVAXIN
+01-06-2021,13:13:19,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,6,COVAXIN
+01-06-2021,13:13:35,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,6,COVAXIN
+01-06-2021,13:13:50,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,13:14:06,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,13:14:21,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,13:14:38,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,13:18:58,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,13:19:14,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,13:19:29,Kavery Hospital-Covaxin,Teynampet,Paid,2,COVAXIN
+01-06-2021,13:59:27,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,13:59:43,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,13:59:59,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:02:31,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:02:31,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:02:47,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:02:47,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:03:03,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:03:03,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:10:24,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:10:40,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:10:55,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:11:11,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:23:36,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:23:52,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:24:08,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:24:23,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:44:56,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:45:11,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,14:45:27,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:02:57,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:03:13,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:03:29,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:03:44,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:33:33,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:33:49,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:34:04,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:34:20,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:34:35,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:34:51,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:35:07,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:35:22,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:35:38,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:35:53,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:36:09,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:36:24,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:39:41,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:39:57,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:40:13,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:40:28,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:45:50,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:46:06,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:46:22,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:46:37,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:49:54,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:50:10,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:50:25,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:50:41,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:51:58,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:52:13,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:52:29,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:52:44,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:55:55,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:56:10,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:56:26,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,15:56:41,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,16:00:00,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,16:00:15,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,16:00:31,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,16:00:46,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,16:05:06,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,16:05:21,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,16:05:37,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,16:05:52,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,16:09:10,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,16:09:25,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,16:09:41,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,16:09:56,APOLLO MEDICAL CENTRE KOTTURPU,Adyar,Paid,1,COVAXIN
+01-06-2021,16:45:40,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,16:45:57,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,16:46:13,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,16:46:28,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,16:47:44,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,2,COVAXIN
+01-06-2021,16:47:44,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,2,COVAXIN
+01-06-2021,16:48:00,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,2,COVAXIN
+01-06-2021,16:48:00,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,2,COVAXIN
+01-06-2021,16:48:16,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,2,COVAXIN
+01-06-2021,16:48:16,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,2,COVAXIN
+01-06-2021,16:48:32,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,2,COVAXIN
+01-06-2021,16:48:32,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,2,COVAXIN
+01-06-2021,16:51:50,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,16:52:05,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,16:52:21,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,16:52:36,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,16:55:54,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,16:56:09,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,16:56:25,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,16:56:40,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,16:59:57,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:00:13,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:00:28,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:00:44,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:00:59,B M Hospitals,Alandur,Paid,250,COVAXIN
+01-06-2021,17:01:15,B M Hospitals,Alandur,Paid,250,COVAXIN
+01-06-2021,17:01:30,B M Hospitals,Alandur,Paid,250,COVAXIN
+01-06-2021,17:01:46,B M Hospitals,Alandur,Paid,250,COVAXIN
+01-06-2021,17:02:01,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:02:01,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:02:01,B M Hospitals,Alandur,Paid,203,COVAXIN
+01-06-2021,17:02:01,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:02:18,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:02:18,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:02:18,B M Hospitals,Alandur,Paid,203,COVAXIN
+01-06-2021,17:02:18,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:02:35,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:02:35,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:02:35,B M Hospitals,Alandur,Paid,203,COVAXIN
+01-06-2021,17:02:35,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:02:51,B M Hospitals,Alandur,Paid,128,COVAXIN
+01-06-2021,17:02:51,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:02:51,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:03:08,B M Hospitals,Alandur,Paid,128,COVAXIN
+01-06-2021,17:03:08,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:03:08,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:03:24,B M Hospitals,Alandur,Paid,128,COVAXIN
+01-06-2021,17:03:24,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:03:24,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:03:40,B M Hospitals,Alandur,Paid,128,COVAXIN
+01-06-2021,17:03:40,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:03:40,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:03:56,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:03:56,B M Hospitals,Alandur,Paid,81,COVAXIN
+01-06-2021,17:04:12,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:04:12,B M Hospitals,Alandur,Paid,81,COVAXIN
+01-06-2021,17:04:28,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:04:28,B M Hospitals,Alandur,Paid,81,COVAXIN
+01-06-2021,17:04:44,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:04:44,B M Hospitals,Alandur,Paid,81,COVAXIN
+01-06-2021,17:05:00,B M Hospitals,Alandur,Paid,54,COVAXIN
+01-06-2021,17:05:15,B M Hospitals,Alandur,Paid,54,COVAXIN
+01-06-2021,17:05:31,B M Hospitals,Alandur,Paid,54,COVAXIN
+01-06-2021,17:05:46,B M Hospitals,Alandur,Paid,54,COVAXIN
+01-06-2021,17:06:02,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:06:02,B M Hospitals,Alandur,Paid,23,COVAXIN
+01-06-2021,17:06:02,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:06:18,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:06:18,B M Hospitals,Alandur,Paid,23,COVAXIN
+01-06-2021,17:06:18,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:06:34,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:06:34,B M Hospitals,Alandur,Paid,23,COVAXIN
+01-06-2021,17:06:34,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:07:51,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:08:06,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:08:22,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:08:38,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:11:10,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:11:26,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:11:42,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:11:57,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:12:13,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:12:28,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:12:44,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:12:59,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:13:15,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:13:30,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:13:46,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:14:01,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:14:01,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:14:01,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:14:18,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:14:18,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:14:18,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:14:35,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:14:35,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:14:35,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:14:51,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:14:51,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:14:51,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:15:07,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:15:23,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:15:39,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:15:54,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:16:10,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,150,COVAXIN
+01-06-2021,17:16:25,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,150,COVAXIN
+01-06-2021,17:16:41,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,150,COVAXIN
+01-06-2021,17:17:11,B M Hospitals,Alandur,Paid,4,COVAXIN
+01-06-2021,17:17:11,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,116,COVAXIN
+01-06-2021,17:17:27,B M Hospitals,Alandur,Paid,4,COVAXIN
+01-06-2021,17:17:27,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,116,COVAXIN
+01-06-2021,17:17:43,B M Hospitals,Alandur,Paid,4,COVAXIN
+01-06-2021,17:17:43,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,116,COVAXIN
+01-06-2021,17:17:59,B M Hospitals,Alandur,Paid,7,COVAXIN
+01-06-2021,17:17:59,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:17:59,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,63,COVAXIN
+01-06-2021,17:17:59,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:18:16,B M Hospitals,Alandur,Paid,7,COVAXIN
+01-06-2021,17:18:16,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:18:16,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,63,COVAXIN
+01-06-2021,17:18:16,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:18:32,B M Hospitals,Alandur,Paid,7,COVAXIN
+01-06-2021,17:18:32,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:18:32,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,63,COVAXIN
+01-06-2021,17:18:32,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:18:49,B M Hospitals,Alandur,Paid,7,COVAXIN
+01-06-2021,17:18:49,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:18:49,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,63,COVAXIN
+01-06-2021,17:18:49,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:19:05,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:19:05,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,32,COVAXIN
+01-06-2021,17:19:05,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:19:05,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:19:22,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:19:22,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,32,COVAXIN
+01-06-2021,17:19:22,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:19:22,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:19:39,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:19:39,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,32,COVAXIN
+01-06-2021,17:19:39,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:19:39,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:19:56,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:19:56,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,32,COVAXIN
+01-06-2021,17:19:56,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:19:56,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:20:12,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,6,COVAXIN
+01-06-2021,17:20:28,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,6,COVAXIN
+01-06-2021,17:20:43,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,6,COVAXIN
+01-06-2021,17:20:59,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,6,COVAXIN
+01-06-2021,17:21:14,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:21:30,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:21:45,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:23:01,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:23:17,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:23:32,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:23:48,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:25:04,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:25:04,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:25:20,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:25:20,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:25:36,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:25:36,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:25:52,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:25:52,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:26:08,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:26:24,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:26:39,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:26:54,Apollo Spec Hosp OMR COVAXIN,Perungudi,Paid,1,COVAXIN
+01-06-2021,17:27:11,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:27:26,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:27:42,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:27:57,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:28:13,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,199,COVAXIN
+01-06-2021,17:28:13,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:28:29,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,199,COVAXIN
+01-06-2021,17:28:29,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:28:45,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,199,COVAXIN
+01-06-2021,17:28:45,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:29:01,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,199,COVAXIN
+01-06-2021,17:29:01,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:29:17,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,190,COVAXIN
+01-06-2021,17:29:17,B M Hospitals,Alandur,Paid,4,COVAXIN
+01-06-2021,17:29:33,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,190,COVAXIN
+01-06-2021,17:29:33,B M Hospitals,Alandur,Paid,4,COVAXIN
+01-06-2021,17:29:49,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,190,COVAXIN
+01-06-2021,17:29:49,B M Hospitals,Alandur,Paid,4,COVAXIN
+01-06-2021,17:30:20,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,176,COVAXIN
+01-06-2021,17:30:20,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,2,COVAXIN
+01-06-2021,17:30:20,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:30:37,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,176,COVAXIN
+01-06-2021,17:30:37,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,2,COVAXIN
+01-06-2021,17:30:37,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:30:54,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,176,COVAXIN
+01-06-2021,17:30:54,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,2,COVAXIN
+01-06-2021,17:30:54,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:31:11,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,166,COVAXIN
+01-06-2021,17:31:11,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:31:26,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,166,COVAXIN
+01-06-2021,17:31:26,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:31:42,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,166,COVAXIN
+01-06-2021,17:31:42,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:31:58,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,166,COVAXIN
+01-06-2021,17:31:58,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:32:14,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,158,COVAXIN
+01-06-2021,17:32:30,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,158,COVAXIN
+01-06-2021,17:32:45,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,158,COVAXIN
+01-06-2021,17:33:01,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,158,COVAXIN
+01-06-2021,17:33:16,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,145,COVAXIN
+01-06-2021,17:33:16,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:33:32,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,145,COVAXIN
+01-06-2021,17:33:32,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:33:48,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,145,COVAXIN
+01-06-2021,17:33:48,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:34:04,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,145,COVAXIN
+01-06-2021,17:34:04,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:34:20,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:34:20,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,131,COVAXIN
+01-06-2021,17:34:20,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:34:20,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:34:37,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:34:37,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,131,COVAXIN
+01-06-2021,17:34:37,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:34:37,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:34:54,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:34:54,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,131,COVAXIN
+01-06-2021,17:34:54,B M Hospitals,Alandur,Paid,2,COVAXIN
+01-06-2021,17:34:54,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:35:10,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,121,COVAXIN
+01-06-2021,17:35:10,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:35:10,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:35:27,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,121,COVAXIN
+01-06-2021,17:35:27,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:35:27,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:35:43,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,121,COVAXIN
+01-06-2021,17:35:43,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:35:43,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:35:59,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,121,COVAXIN
+01-06-2021,17:35:59,B M Hospitals,Alandur,Paid,1,COVAXIN
+01-06-2021,17:35:59,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:36:16,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,109,COVAXIN
+01-06-2021,17:36:31,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,109,COVAXIN
+01-06-2021,17:36:47,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,109,COVAXIN
+01-06-2021,17:37:02,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,109,COVAXIN
+01-06-2021,17:37:18,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,102,COVAXIN
+01-06-2021,17:37:18,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:37:34,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,102,COVAXIN
+01-06-2021,17:37:34,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:37:50,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,102,COVAXIN
+01-06-2021,17:37:50,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:38:06,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,102,COVAXIN
+01-06-2021,17:38:06,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:38:22,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:38:22,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,76,COVAXIN
+01-06-2021,17:38:38,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:38:39,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,76,COVAXIN
+01-06-2021,17:38:54,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:38:54,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,76,COVAXIN
+01-06-2021,17:39:10,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:39:10,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,76,COVAXIN
+01-06-2021,17:39:26,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,57,COVAXIN
+01-06-2021,17:39:26,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:39:42,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,57,COVAXIN
+01-06-2021,17:39:42,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:39:58,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,57,COVAXIN
+01-06-2021,17:39:58,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:40:14,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,47,COVAXIN
+01-06-2021,17:40:30,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,47,COVAXIN
+01-06-2021,17:40:45,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,47,COVAXIN
+01-06-2021,17:41:01,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,47,COVAXIN
+01-06-2021,17:41:16,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:41:16,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,28,COVAXIN
+01-06-2021,17:41:16,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:41:16,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:41:16,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:41:16,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:41:33,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:41:33,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,28,COVAXIN
+01-06-2021,17:41:33,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:41:33,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:41:33,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:41:33,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:41:51,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:41:51,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,28,COVAXIN
+01-06-2021,17:41:51,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:41:51,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:41:51,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:41:51,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:42:08,APOLLO MEDICAL CENTRE COVAXIN,Anna Nagar,Paid,1,COVAXIN
+01-06-2021,17:42:08,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,28,COVAXIN
+01-06-2021,17:42:08,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:42:08,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:42:08,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:42:08,Kavery Hospital-Covaxin,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:42:25,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,19,COVAXIN
+01-06-2021,17:42:41,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,19,COVAXIN
+01-06-2021,17:42:56,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,19,COVAXIN
+01-06-2021,17:43:12,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,19,COVAXIN
+01-06-2021,17:43:28,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,6,COVAXIN
+01-06-2021,17:43:28,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:43:28,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:43:44,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,6,COVAXIN
+01-06-2021,17:43:44,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:43:44,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:44:00,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,6,COVAXIN
+01-06-2021,17:44:00,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:44:00,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:44:17,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:44:17,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:44:33,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:44:33,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:44:49,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:44:49,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:45:05,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:45:05,Apollo Mains Greams,Teynampet,Paid,1,COVAXIN
+01-06-2021,17:46:21,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:46:37,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:46:54,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:47:10,Apollo Childrens HOS Covaxin,Tondiarpet,Paid,1,COVAXIN
+01-06-2021,17:47:25,Apollo Tondiarpet - COVAXIN,Tondiarpet,Paid,2,COVAXIN
+22-07-2021,13:54:19,Apollo Proton Hospital,Perungudi,Paid,199,COVAXIN
+22-07-2021,13:54:19,Apollo Spec Hosp OMR,Perungudi,Paid,47,COVAXIN
+22-07-2021,13:54:19,Apollo Medical Centre - Kpm,Sholinganallur,Paid,42,COVAXIN
+22-07-2021,13:54:19,Dr Kamakshi Memorial,Perungudi,Paid,70,COVAXIN
+22-07-2021,13:54:19,Dr Kamakshi Memorial,Perungudi,Paid,92,COVAXIN
+22-07-2021,13:54:19,APOLLO CLINIC MADIPAKAM,Perungudi,Paid,20,COVAXIN
+22-07-2021,13:54:19,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,52,COVAXIN
+22-07-2021,13:54:19,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,75,COVAXIN
+22-07-2021,13:54:19,VIHAA HOSPITAL,Anna Nagar,Paid,118,COVAXIN
+22-07-2021,13:54:19,VIHAA HOSPITAL,Anna Nagar,Paid,119,COVAXIN
+22-07-2021,13:54:19,VIHAA HOSPITAL,Anna Nagar,Paid,110,COVAXIN
+22-07-2021,13:54:19,VIHAA HOSPITAL,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,13:54:19,Apollo Clinic Valasaravakkam,Valasaravakkam,Paid,17,COVAXIN
+22-07-2021,13:54:19,Apollo Hospital Tondiarpet,Tondiarpet,Paid,88,COVAXIN
+22-07-2021,13:54:19,Porur SRMC,Valasaravakkam,Paid,93,COVAXIN
+22-07-2021,13:54:19,Porur SRMC,Valasaravakkam,Paid,215,COVAXIN
+22-07-2021,13:54:19,Porur SRMC,Valasaravakkam,Paid,216,COVAXIN
+22-07-2021,13:54:19,B M Hospitals,Alandur,Paid,117,COVAXIN
+22-07-2021,13:54:19,B M Hospitals,Alandur,Paid,108,COVAXIN
+22-07-2021,13:54:19,B M Hospitals,Alandur,Paid,194,COVAXIN
+22-07-2021,13:54:19,B M Hospitals,Alandur,Paid,196,COVAXIN
+22-07-2021,13:54:19,Apollo Clinic VELACHEY,Adyar,Paid,20,COVAXIN
+22-07-2021,13:54:19,Apollo Clinic VELACHEY,Adyar,Paid,25,COVAXIN
+22-07-2021,13:54:19,Apollo Fertility,Anna Nagar,Paid,78,COVAXIN
+22-07-2021,13:54:19,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,13:54:19,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,13:54:19,THE MADRAS MEDICAL MISSION,Ambattur,Paid,6,COVAXIN
+22-07-2021,13:54:19,Apollo Speciality Hosp,Teynampet,Paid,9,COVAXIN
+22-07-2021,13:54:19,Dr Mehtas Hospitals,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,13:54:19,Dr Mehtas Hospitals,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,13:54:19,Dr Mehtas Hospitals,Anna Nagar,Paid,24,COVAXIN
+22-07-2021,13:54:19,Billroth Hospitals,Anna Nagar,Paid,57,COVAXIN
+22-07-2021,13:54:19,Billroth Hospitals,Anna Nagar,Paid,75,COVAXIN
+22-07-2021,13:54:19,MGM Hospital Pvt Limited,Anna Nagar,Paid,194,COVAXIN
+22-07-2021,13:54:19,MGM Hospital Pvt Limited,Anna Nagar,Paid,182,COVAXIN
+22-07-2021,13:54:19,Apollo Spectra Hospita,Adyar,Paid,19,COVAXIN
+22-07-2021,13:54:19,Fortis Hospitals Vadapalani,Kodambakkam,Paid,50,COVAXIN
+22-07-2021,13:54:19,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,13:54:19,Fortis Hospitals Vadapalani,Kodambakkam,Paid,58,COVAXIN
+22-07-2021,13:54:19,Vijaya Health Centre,Kodambakkam,Paid,15,COVAXIN
+22-07-2021,13:54:19,Vijaya Health Centre,Kodambakkam,Paid,23,COVAXIN
+22-07-2021,13:54:19,Fortis Malar Hospital,Adyar,Paid,4,COVAXIN
+22-07-2021,13:54:19,Fortis Malar Hospital,Adyar,Paid,2,COVAXIN
+22-07-2021,13:54:19,MINT HOSPITAL,Adyar,Paid,135,COVAXIN
+22-07-2021,13:54:19,MINT HOSPITAL,Adyar,Paid,144,COVAXIN
+22-07-2021,13:54:19,MINT HOSPITAL,Adyar,Paid,185,COVAXIN
+22-07-2021,13:54:19,MINT HOSPITAL,Adyar,Paid,191,COVAXIN
+22-07-2021,13:54:19,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,13:54:19,ISWARYA FERTILITY CENTRES,Adyar,Paid,94,COVAXIN
+22-07-2021,13:54:19,ISWARYA FERTILITY CENTRES,Adyar,Paid,93,COVAXIN
+22-07-2021,13:54:19,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,13:54:19,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,13:54:19,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,13:54:19,ISWARYA FERTILITY CENTRES,Adyar,Paid,86,COVAXIN
+22-07-2021,13:54:19,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,74,COVAXIN
+22-07-2021,13:54:19,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,16,COVAXIN
+22-07-2021,13:54:19,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,45,COVAXIN
+22-07-2021,13:54:19,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,46,COVAXIN
+22-07-2021,13:54:19,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,13:54:19,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,13:54:19,Cloudnine Hospital -,Kodambakkam,Paid,79,COVAXIN
+22-07-2021,13:54:19,Rainbow Childrens Medicare,Adyar,Paid,223,COVAXIN
+22-07-2021,13:54:19,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,13:54:19,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,13:54:19,Apollo Childrens Hospital,Tondiarpet,Paid,126,COVAXIN
+22-07-2021,13:54:19,Apollo Childrens Hospital,Tondiarpet,Paid,147,COVAXIN
+22-07-2021,13:54:19,Apollo Mains Greams,Teynampet,Paid,66,COVAXIN
+22-07-2021,13:54:19,Apollo Mains Greams,Teynampet,Paid,77,COVAXIN
+22-07-2021,13:54:19,Apollo Mains Greams,Teynampet,Paid,65,COVAXIN
+22-07-2021,13:54:19,Apollo Mains Greams,Teynampet,Paid,117,COVAXIN
+22-07-2021,13:54:19,Kavery Hospital,Teynampet,Paid,49,COVAXIN
+22-07-2021,13:55:38,Apollo Proton Hospital,Perungudi,Paid,199,COVAXIN
+22-07-2021,13:55:38,Apollo Spec Hosp OMR,Perungudi,Paid,47,COVAXIN
+22-07-2021,13:55:38,Apollo Medical Centre - Kpm,Sholinganallur,Paid,42,COVAXIN
+22-07-2021,13:55:38,Dr Kamakshi Memorial,Perungudi,Paid,70,COVAXIN
+22-07-2021,13:55:38,Dr Kamakshi Memorial,Perungudi,Paid,92,COVAXIN
+22-07-2021,13:55:38,APOLLO CLINIC MADIPAKAM,Perungudi,Paid,20,COVAXIN
+22-07-2021,13:55:38,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,52,COVAXIN
+22-07-2021,13:55:38,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,75,COVAXIN
+22-07-2021,13:55:38,VIHAA HOSPITAL,Anna Nagar,Paid,118,COVAXIN
+22-07-2021,13:55:38,VIHAA HOSPITAL,Anna Nagar,Paid,119,COVAXIN
+22-07-2021,13:55:38,VIHAA HOSPITAL,Anna Nagar,Paid,110,COVAXIN
+22-07-2021,13:55:38,VIHAA HOSPITAL,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,13:55:38,Apollo Clinic Valasaravakkam,Valasaravakkam,Paid,17,COVAXIN
+22-07-2021,13:55:38,Apollo Hospital Tondiarpet,Tondiarpet,Paid,88,COVAXIN
+22-07-2021,13:55:38,Porur SRMC,Valasaravakkam,Paid,93,COVAXIN
+22-07-2021,13:55:38,Porur SRMC,Valasaravakkam,Paid,215,COVAXIN
+22-07-2021,13:55:38,Porur SRMC,Valasaravakkam,Paid,216,COVAXIN
+22-07-2021,13:55:38,B M Hospitals,Alandur,Paid,117,COVAXIN
+22-07-2021,13:55:38,B M Hospitals,Alandur,Paid,108,COVAXIN
+22-07-2021,13:55:38,B M Hospitals,Alandur,Paid,194,COVAXIN
+22-07-2021,13:55:38,B M Hospitals,Alandur,Paid,196,COVAXIN
+22-07-2021,13:55:38,Apollo Clinic VELACHEY,Adyar,Paid,20,COVAXIN
+22-07-2021,13:55:38,Apollo Clinic VELACHEY,Adyar,Paid,25,COVAXIN
+22-07-2021,13:55:38,Apollo Fertility,Anna Nagar,Paid,78,COVAXIN
+22-07-2021,13:55:38,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,13:55:38,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,13:55:38,THE MADRAS MEDICAL MISSION,Ambattur,Paid,6,COVAXIN
+22-07-2021,13:55:38,Apollo Speciality Hosp,Teynampet,Paid,9,COVAXIN
+22-07-2021,13:55:38,Dr Mehtas Hospitals,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,13:55:38,Dr Mehtas Hospitals,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,13:55:38,Dr Mehtas Hospitals,Anna Nagar,Paid,24,COVAXIN
+22-07-2021,13:55:38,Billroth Hospitals,Anna Nagar,Paid,57,COVAXIN
+22-07-2021,13:55:38,Billroth Hospitals,Anna Nagar,Paid,75,COVAXIN
+22-07-2021,13:55:38,MGM Hospital Pvt Limited,Anna Nagar,Paid,194,COVAXIN
+22-07-2021,13:55:38,MGM Hospital Pvt Limited,Anna Nagar,Paid,182,COVAXIN
+22-07-2021,13:55:38,Apollo Spectra Hospita,Adyar,Paid,19,COVAXIN
+22-07-2021,13:55:38,Fortis Hospitals Vadapalani,Kodambakkam,Paid,50,COVAXIN
+22-07-2021,13:55:38,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,13:55:38,Fortis Hospitals Vadapalani,Kodambakkam,Paid,58,COVAXIN
+22-07-2021,13:55:38,Vijaya Health Centre,Kodambakkam,Paid,15,COVAXIN
+22-07-2021,13:55:38,Vijaya Health Centre,Kodambakkam,Paid,23,COVAXIN
+22-07-2021,13:55:38,Fortis Malar Hospital,Adyar,Paid,4,COVAXIN
+22-07-2021,13:55:38,Fortis Malar Hospital,Adyar,Paid,2,COVAXIN
+22-07-2021,13:55:38,MINT HOSPITAL,Adyar,Paid,135,COVAXIN
+22-07-2021,13:55:38,MINT HOSPITAL,Adyar,Paid,144,COVAXIN
+22-07-2021,13:55:38,MINT HOSPITAL,Adyar,Paid,185,COVAXIN
+22-07-2021,13:55:38,MINT HOSPITAL,Adyar,Paid,191,COVAXIN
+22-07-2021,13:55:38,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,13:55:38,ISWARYA FERTILITY CENTRES,Adyar,Paid,94,COVAXIN
+22-07-2021,13:55:38,ISWARYA FERTILITY CENTRES,Adyar,Paid,93,COVAXIN
+22-07-2021,13:55:38,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,13:55:38,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,13:55:38,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,13:55:38,ISWARYA FERTILITY CENTRES,Adyar,Paid,86,COVAXIN
+22-07-2021,13:55:38,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,74,COVAXIN
+22-07-2021,13:55:38,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,16,COVAXIN
+22-07-2021,13:55:38,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,45,COVAXIN
+22-07-2021,13:55:38,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,46,COVAXIN
+22-07-2021,13:55:38,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,13:55:38,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,13:55:38,Cloudnine Hospital -,Kodambakkam,Paid,79,COVAXIN
+22-07-2021,13:55:38,Rainbow Childrens Medicare,Adyar,Paid,223,COVAXIN
+22-07-2021,13:55:38,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,13:55:38,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,13:55:38,Apollo Childrens Hospital,Tondiarpet,Paid,126,COVAXIN
+22-07-2021,13:55:38,Apollo Childrens Hospital,Tondiarpet,Paid,147,COVAXIN
+22-07-2021,13:55:38,Apollo Mains Greams,Teynampet,Paid,66,COVAXIN
+22-07-2021,13:55:38,Apollo Mains Greams,Teynampet,Paid,77,COVAXIN
+22-07-2021,13:55:38,Apollo Mains Greams,Teynampet,Paid,65,COVAXIN
+22-07-2021,13:55:38,Apollo Mains Greams,Teynampet,Paid,117,COVAXIN
+22-07-2021,13:55:38,Kavery Hospital,Teynampet,Paid,49,COVAXIN
+22-07-2021,13:56:12,Apollo Proton Hospital,Perungudi,Paid,199,COVAXIN
+22-07-2021,13:56:12,Apollo Spec Hosp OMR,Perungudi,Paid,47,COVAXIN
+22-07-2021,13:56:12,Apollo Medical Centre - Kpm,Sholinganallur,Paid,42,COVAXIN
+22-07-2021,13:56:12,Dr Kamakshi Memorial,Perungudi,Paid,70,COVAXIN
+22-07-2021,13:56:12,Dr Kamakshi Memorial,Perungudi,Paid,92,COVAXIN
+22-07-2021,13:56:12,APOLLO CLINIC MADIPAKAM,Perungudi,Paid,20,COVAXIN
+22-07-2021,13:56:12,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,52,COVAXIN
+22-07-2021,13:56:12,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,75,COVAXIN
+22-07-2021,13:56:12,VIHAA HOSPITAL,Anna Nagar,Paid,118,COVAXIN
+22-07-2021,13:56:12,VIHAA HOSPITAL,Anna Nagar,Paid,119,COVAXIN
+22-07-2021,13:56:12,VIHAA HOSPITAL,Anna Nagar,Paid,110,COVAXIN
+22-07-2021,13:56:12,VIHAA HOSPITAL,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,13:56:12,Apollo Clinic Valasaravakkam,Valasaravakkam,Paid,17,COVAXIN
+22-07-2021,13:56:12,Apollo Hospital Tondiarpet,Tondiarpet,Paid,88,COVAXIN
+22-07-2021,13:56:12,Porur SRMC,Valasaravakkam,Paid,93,COVAXIN
+22-07-2021,13:56:12,Porur SRMC,Valasaravakkam,Paid,215,COVAXIN
+22-07-2021,13:56:12,Porur SRMC,Valasaravakkam,Paid,216,COVAXIN
+22-07-2021,13:56:12,B M Hospitals,Alandur,Paid,117,COVAXIN
+22-07-2021,13:56:12,B M Hospitals,Alandur,Paid,108,COVAXIN
+22-07-2021,13:56:12,B M Hospitals,Alandur,Paid,194,COVAXIN
+22-07-2021,13:56:12,B M Hospitals,Alandur,Paid,196,COVAXIN
+22-07-2021,13:56:12,Apollo Clinic VELACHEY,Adyar,Paid,20,COVAXIN
+22-07-2021,13:56:12,Apollo Clinic VELACHEY,Adyar,Paid,25,COVAXIN
+22-07-2021,13:56:12,Apollo Fertility,Anna Nagar,Paid,78,COVAXIN
+22-07-2021,13:56:12,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,13:56:12,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,13:56:12,THE MADRAS MEDICAL MISSION,Ambattur,Paid,6,COVAXIN
+22-07-2021,13:56:12,Apollo Speciality Hosp,Teynampet,Paid,9,COVAXIN
+22-07-2021,13:56:12,Dr Mehtas Hospitals,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,13:56:12,Dr Mehtas Hospitals,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,13:56:12,Dr Mehtas Hospitals,Anna Nagar,Paid,24,COVAXIN
+22-07-2021,13:56:12,Billroth Hospitals,Anna Nagar,Paid,57,COVAXIN
+22-07-2021,13:56:12,Billroth Hospitals,Anna Nagar,Paid,75,COVAXIN
+22-07-2021,13:56:12,MGM Hospital Pvt Limited,Anna Nagar,Paid,194,COVAXIN
+22-07-2021,13:56:12,MGM Hospital Pvt Limited,Anna Nagar,Paid,182,COVAXIN
+22-07-2021,13:56:12,Apollo Spectra Hospita,Adyar,Paid,19,COVAXIN
+22-07-2021,13:56:12,Fortis Hospitals Vadapalani,Kodambakkam,Paid,50,COVAXIN
+22-07-2021,13:56:12,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,13:56:12,Fortis Hospitals Vadapalani,Kodambakkam,Paid,58,COVAXIN
+22-07-2021,13:56:12,Vijaya Health Centre,Kodambakkam,Paid,15,COVAXIN
+22-07-2021,13:56:12,Vijaya Health Centre,Kodambakkam,Paid,23,COVAXIN
+22-07-2021,13:56:12,Fortis Malar Hospital,Adyar,Paid,4,COVAXIN
+22-07-2021,13:56:12,Fortis Malar Hospital,Adyar,Paid,2,COVAXIN
+22-07-2021,13:56:12,MINT HOSPITAL,Adyar,Paid,135,COVAXIN
+22-07-2021,13:56:12,MINT HOSPITAL,Adyar,Paid,144,COVAXIN
+22-07-2021,13:56:12,MINT HOSPITAL,Adyar,Paid,185,COVAXIN
+22-07-2021,13:56:12,MINT HOSPITAL,Adyar,Paid,191,COVAXIN
+22-07-2021,13:56:12,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,13:56:12,ISWARYA FERTILITY CENTRES,Adyar,Paid,94,COVAXIN
+22-07-2021,13:56:12,ISWARYA FERTILITY CENTRES,Adyar,Paid,93,COVAXIN
+22-07-2021,13:56:12,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,13:56:12,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,13:56:12,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,13:56:12,ISWARYA FERTILITY CENTRES,Adyar,Paid,86,COVAXIN
+22-07-2021,13:56:12,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,74,COVAXIN
+22-07-2021,13:56:12,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,16,COVAXIN
+22-07-2021,13:56:12,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,45,COVAXIN
+22-07-2021,13:56:12,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,46,COVAXIN
+22-07-2021,13:56:12,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,13:56:12,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,13:56:12,Cloudnine Hospital -,Kodambakkam,Paid,79,COVAXIN
+22-07-2021,13:56:12,Rainbow Childrens Medicare,Adyar,Paid,223,COVAXIN
+22-07-2021,13:56:12,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,13:56:12,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,13:56:12,Apollo Childrens Hospital,Tondiarpet,Paid,126,COVAXIN
+22-07-2021,13:56:12,Apollo Childrens Hospital,Tondiarpet,Paid,147,COVAXIN
+22-07-2021,13:56:12,Apollo Mains Greams,Teynampet,Paid,66,COVAXIN
+22-07-2021,13:56:12,Apollo Mains Greams,Teynampet,Paid,77,COVAXIN
+22-07-2021,13:56:12,Apollo Mains Greams,Teynampet,Paid,65,COVAXIN
+22-07-2021,13:56:12,Apollo Mains Greams,Teynampet,Paid,117,COVAXIN
+22-07-2021,13:56:12,Kavery Hospital,Teynampet,Paid,49,COVAXIN
+22-07-2021,14:02:47,Apollo Proton Hospital,Perungudi,Paid,199,COVAXIN
+22-07-2021,14:02:47,Apollo Spec Hosp OMR,Perungudi,Paid,47,COVAXIN
+22-07-2021,14:02:47,Apollo Medical Centre - Kpm,Sholinganallur,Paid,42,COVAXIN
+22-07-2021,14:02:47,Dr Kamakshi Memorial,Perungudi,Paid,70,COVAXIN
+22-07-2021,14:02:47,Dr Kamakshi Memorial,Perungudi,Paid,92,COVAXIN
+22-07-2021,14:02:47,APOLLO CLINIC MADIPAKAM,Perungudi,Paid,20,COVAXIN
+22-07-2021,14:02:47,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,52,COVAXIN
+22-07-2021,14:02:47,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:02:47,VIHAA HOSPITAL,Anna Nagar,Paid,118,COVAXIN
+22-07-2021,14:02:47,VIHAA HOSPITAL,Anna Nagar,Paid,119,COVAXIN
+22-07-2021,14:02:47,VIHAA HOSPITAL,Anna Nagar,Paid,110,COVAXIN
+22-07-2021,14:02:47,VIHAA HOSPITAL,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:02:47,Apollo Clinic Valasaravakkam,Valasaravakkam,Paid,17,COVAXIN
+22-07-2021,14:02:47,Apollo Hospital Tondiarpet,Tondiarpet,Paid,88,COVAXIN
+22-07-2021,14:02:47,Porur SRMC,Valasaravakkam,Paid,94,COVAXIN
+22-07-2021,14:02:47,Porur SRMC,Valasaravakkam,Paid,215,COVAXIN
+22-07-2021,14:02:47,Porur SRMC,Valasaravakkam,Paid,216,COVAXIN
+22-07-2021,14:02:47,B M Hospitals,Alandur,Paid,117,COVAXIN
+22-07-2021,14:02:47,B M Hospitals,Alandur,Paid,107,COVAXIN
+22-07-2021,14:02:47,B M Hospitals,Alandur,Paid,193,COVAXIN
+22-07-2021,14:02:47,B M Hospitals,Alandur,Paid,196,COVAXIN
+22-07-2021,14:02:47,Apollo Clinic VELACHEY,Adyar,Paid,20,COVAXIN
+22-07-2021,14:02:47,Apollo Clinic VELACHEY,Adyar,Paid,22,COVAXIN
+22-07-2021,14:02:47,Apollo Fertility,Anna Nagar,Paid,78,COVAXIN
+22-07-2021,14:02:47,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:02:47,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:02:47,THE MADRAS MEDICAL MISSION,Ambattur,Paid,6,COVAXIN
+22-07-2021,14:02:47,Apollo Speciality Hosp,Teynampet,Paid,9,COVAXIN
+22-07-2021,14:02:47,Dr Mehtas Hospitals,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,14:02:47,Dr Mehtas Hospitals,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:02:47,Dr Mehtas Hospitals,Anna Nagar,Paid,24,COVAXIN
+22-07-2021,14:02:47,Billroth Hospitals,Anna Nagar,Paid,57,COVAXIN
+22-07-2021,14:02:47,Billroth Hospitals,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:02:47,MGM Hospital Pvt Limited,Anna Nagar,Paid,192,COVAXIN
+22-07-2021,14:02:47,MGM Hospital Pvt Limited,Anna Nagar,Paid,180,COVAXIN
+22-07-2021,14:02:47,Apollo Spectra Hospita,Adyar,Paid,19,COVAXIN
+22-07-2021,14:02:47,Fortis Hospitals Vadapalani,Kodambakkam,Paid,50,COVAXIN
+22-07-2021,14:02:47,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,14:02:47,Fortis Hospitals Vadapalani,Kodambakkam,Paid,58,COVAXIN
+22-07-2021,14:02:47,Vijaya Health Centre,Kodambakkam,Paid,15,COVAXIN
+22-07-2021,14:02:47,Vijaya Health Centre,Kodambakkam,Paid,23,COVAXIN
+22-07-2021,14:02:47,Fortis Malar Hospital,Adyar,Paid,4,COVAXIN
+22-07-2021,14:02:47,Fortis Malar Hospital,Adyar,Paid,2,COVAXIN
+22-07-2021,14:02:47,MINT HOSPITAL,Adyar,Paid,135,COVAXIN
+22-07-2021,14:02:47,MINT HOSPITAL,Adyar,Paid,144,COVAXIN
+22-07-2021,14:02:47,MINT HOSPITAL,Adyar,Paid,185,COVAXIN
+22-07-2021,14:02:47,MINT HOSPITAL,Adyar,Paid,191,COVAXIN
+22-07-2021,14:02:47,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:02:47,ISWARYA FERTILITY CENTRES,Adyar,Paid,94,COVAXIN
+22-07-2021,14:02:47,ISWARYA FERTILITY CENTRES,Adyar,Paid,93,COVAXIN
+22-07-2021,14:02:47,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:02:47,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:02:47,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:02:47,ISWARYA FERTILITY CENTRES,Adyar,Paid,86,COVAXIN
+22-07-2021,14:02:47,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,74,COVAXIN
+22-07-2021,14:02:47,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,16,COVAXIN
+22-07-2021,14:02:47,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,45,COVAXIN
+22-07-2021,14:02:47,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,46,COVAXIN
+22-07-2021,14:02:47,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:02:47,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:02:47,Cloudnine Hospital -,Kodambakkam,Paid,79,COVAXIN
+22-07-2021,14:02:47,Rainbow Childrens Medicare,Adyar,Paid,223,COVAXIN
+22-07-2021,14:02:47,Rainbow Childrens Medicare,Adyar,Paid,219,COVAXIN
+22-07-2021,14:02:47,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,14:02:47,Apollo Childrens Hospital,Tondiarpet,Paid,125,COVAXIN
+22-07-2021,14:02:47,Apollo Childrens Hospital,Tondiarpet,Paid,147,COVAXIN
+22-07-2021,14:02:47,Apollo Mains Greams,Teynampet,Paid,66,COVAXIN
+22-07-2021,14:02:47,Apollo Mains Greams,Teynampet,Paid,77,COVAXIN
+22-07-2021,14:02:47,Apollo Mains Greams,Teynampet,Paid,65,COVAXIN
+22-07-2021,14:02:47,Apollo Mains Greams,Teynampet,Paid,117,COVAXIN
+22-07-2021,14:02:47,Kavery Hospital,Teynampet,Paid,49,COVAXIN
+22-07-2021,14:02:55,Apollo Proton Hospital,Perungudi,Paid,199,COVAXIN
+22-07-2021,14:02:55,Apollo Spec Hosp OMR,Perungudi,Paid,47,COVAXIN
+22-07-2021,14:02:55,Apollo Medical Centre - Kpm,Sholinganallur,Paid,42,COVAXIN
+22-07-2021,14:02:55,Dr Kamakshi Memorial,Perungudi,Paid,70,COVAXIN
+22-07-2021,14:02:55,Dr Kamakshi Memorial,Perungudi,Paid,92,COVAXIN
+22-07-2021,14:02:55,APOLLO CLINIC MADIPAKAM,Perungudi,Paid,20,COVAXIN
+22-07-2021,14:02:55,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,52,COVAXIN
+22-07-2021,14:02:55,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:02:55,VIHAA HOSPITAL,Anna Nagar,Paid,118,COVAXIN
+22-07-2021,14:02:55,VIHAA HOSPITAL,Anna Nagar,Paid,119,COVAXIN
+22-07-2021,14:02:55,VIHAA HOSPITAL,Anna Nagar,Paid,110,COVAXIN
+22-07-2021,14:02:55,VIHAA HOSPITAL,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:02:55,Apollo Clinic Valasaravakkam,Valasaravakkam,Paid,17,COVAXIN
+22-07-2021,14:02:55,Apollo Hospital Tondiarpet,Tondiarpet,Paid,88,COVAXIN
+22-07-2021,14:02:55,Porur SRMC,Valasaravakkam,Paid,94,COVAXIN
+22-07-2021,14:02:55,Porur SRMC,Valasaravakkam,Paid,215,COVAXIN
+22-07-2021,14:02:55,Porur SRMC,Valasaravakkam,Paid,216,COVAXIN
+22-07-2021,14:02:55,B M Hospitals,Alandur,Paid,117,COVAXIN
+22-07-2021,14:02:55,B M Hospitals,Alandur,Paid,107,COVAXIN
+22-07-2021,14:02:55,B M Hospitals,Alandur,Paid,193,COVAXIN
+22-07-2021,14:02:55,B M Hospitals,Alandur,Paid,196,COVAXIN
+22-07-2021,14:02:55,Apollo Clinic VELACHEY,Adyar,Paid,20,COVAXIN
+22-07-2021,14:02:55,Apollo Clinic VELACHEY,Adyar,Paid,22,COVAXIN
+22-07-2021,14:02:55,Apollo Fertility,Anna Nagar,Paid,78,COVAXIN
+22-07-2021,14:02:55,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:02:55,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:02:55,THE MADRAS MEDICAL MISSION,Ambattur,Paid,6,COVAXIN
+22-07-2021,14:02:55,Apollo Speciality Hosp,Teynampet,Paid,9,COVAXIN
+22-07-2021,14:02:55,Dr Mehtas Hospitals,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,14:02:55,Dr Mehtas Hospitals,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:02:55,Dr Mehtas Hospitals,Anna Nagar,Paid,24,COVAXIN
+22-07-2021,14:02:55,Billroth Hospitals,Anna Nagar,Paid,57,COVAXIN
+22-07-2021,14:02:55,Billroth Hospitals,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:02:55,MGM Hospital Pvt Limited,Anna Nagar,Paid,192,COVAXIN
+22-07-2021,14:02:55,MGM Hospital Pvt Limited,Anna Nagar,Paid,180,COVAXIN
+22-07-2021,14:02:55,Apollo Spectra Hospita,Adyar,Paid,19,COVAXIN
+22-07-2021,14:02:55,Fortis Hospitals Vadapalani,Kodambakkam,Paid,50,COVAXIN
+22-07-2021,14:02:55,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,14:02:55,Fortis Hospitals Vadapalani,Kodambakkam,Paid,58,COVAXIN
+22-07-2021,14:02:55,Vijaya Health Centre,Kodambakkam,Paid,15,COVAXIN
+22-07-2021,14:02:55,Vijaya Health Centre,Kodambakkam,Paid,23,COVAXIN
+22-07-2021,14:02:55,Fortis Malar Hospital,Adyar,Paid,4,COVAXIN
+22-07-2021,14:02:55,Fortis Malar Hospital,Adyar,Paid,2,COVAXIN
+22-07-2021,14:02:55,MINT HOSPITAL,Adyar,Paid,135,COVAXIN
+22-07-2021,14:02:55,MINT HOSPITAL,Adyar,Paid,144,COVAXIN
+22-07-2021,14:02:55,MINT HOSPITAL,Adyar,Paid,185,COVAXIN
+22-07-2021,14:02:55,MINT HOSPITAL,Adyar,Paid,191,COVAXIN
+22-07-2021,14:02:55,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:02:55,ISWARYA FERTILITY CENTRES,Adyar,Paid,94,COVAXIN
+22-07-2021,14:02:55,ISWARYA FERTILITY CENTRES,Adyar,Paid,93,COVAXIN
+22-07-2021,14:02:55,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:02:55,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:02:55,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:02:55,ISWARYA FERTILITY CENTRES,Adyar,Paid,86,COVAXIN
+22-07-2021,14:02:55,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,74,COVAXIN
+22-07-2021,14:02:55,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,16,COVAXIN
+22-07-2021,14:02:55,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,45,COVAXIN
+22-07-2021,14:02:55,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,46,COVAXIN
+22-07-2021,14:02:55,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:02:55,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:02:55,Cloudnine Hospital -,Kodambakkam,Paid,79,COVAXIN
+22-07-2021,14:02:55,Rainbow Childrens Medicare,Adyar,Paid,223,COVAXIN
+22-07-2021,14:02:55,Rainbow Childrens Medicare,Adyar,Paid,219,COVAXIN
+22-07-2021,14:02:55,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,14:02:55,Apollo Childrens Hospital,Tondiarpet,Paid,125,COVAXIN
+22-07-2021,14:02:55,Apollo Childrens Hospital,Tondiarpet,Paid,147,COVAXIN
+22-07-2021,14:02:55,Apollo Mains Greams,Teynampet,Paid,66,COVAXIN
+22-07-2021,14:02:55,Apollo Mains Greams,Teynampet,Paid,77,COVAXIN
+22-07-2021,14:02:55,Apollo Mains Greams,Teynampet,Paid,65,COVAXIN
+22-07-2021,14:02:55,Apollo Mains Greams,Teynampet,Paid,117,COVAXIN
+22-07-2021,14:02:55,Kavery Hospital,Teynampet,Paid,49,COVAXIN
+22-07-2021,14:03:02,Apollo Proton Hospital,Perungudi,Paid,199,COVAXIN
+22-07-2021,14:03:02,Apollo Spec Hosp OMR,Perungudi,Paid,47,COVAXIN
+22-07-2021,14:03:02,Apollo Medical Centre - Kpm,Sholinganallur,Paid,42,COVAXIN
+22-07-2021,14:03:02,Dr Kamakshi Memorial,Perungudi,Paid,70,COVAXIN
+22-07-2021,14:03:02,Dr Kamakshi Memorial,Perungudi,Paid,92,COVAXIN
+22-07-2021,14:03:02,APOLLO CLINIC MADIPAKAM,Perungudi,Paid,20,COVAXIN
+22-07-2021,14:03:02,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,52,COVAXIN
+22-07-2021,14:03:02,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:03:02,VIHAA HOSPITAL,Anna Nagar,Paid,118,COVAXIN
+22-07-2021,14:03:02,VIHAA HOSPITAL,Anna Nagar,Paid,119,COVAXIN
+22-07-2021,14:03:02,VIHAA HOSPITAL,Anna Nagar,Paid,110,COVAXIN
+22-07-2021,14:03:02,VIHAA HOSPITAL,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:03:02,Apollo Clinic Valasaravakkam,Valasaravakkam,Paid,17,COVAXIN
+22-07-2021,14:03:02,Apollo Hospital Tondiarpet,Tondiarpet,Paid,88,COVAXIN
+22-07-2021,14:03:02,Porur SRMC,Valasaravakkam,Paid,94,COVAXIN
+22-07-2021,14:03:02,Porur SRMC,Valasaravakkam,Paid,215,COVAXIN
+22-07-2021,14:03:02,Porur SRMC,Valasaravakkam,Paid,216,COVAXIN
+22-07-2021,14:03:02,B M Hospitals,Alandur,Paid,117,COVAXIN
+22-07-2021,14:03:02,B M Hospitals,Alandur,Paid,107,COVAXIN
+22-07-2021,14:03:02,B M Hospitals,Alandur,Paid,193,COVAXIN
+22-07-2021,14:03:02,B M Hospitals,Alandur,Paid,196,COVAXIN
+22-07-2021,14:03:02,Apollo Clinic VELACHEY,Adyar,Paid,20,COVAXIN
+22-07-2021,14:03:02,Apollo Clinic VELACHEY,Adyar,Paid,22,COVAXIN
+22-07-2021,14:03:02,Apollo Fertility,Anna Nagar,Paid,78,COVAXIN
+22-07-2021,14:03:02,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:03:02,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:03:02,THE MADRAS MEDICAL MISSION,Ambattur,Paid,6,COVAXIN
+22-07-2021,14:03:02,Apollo Speciality Hosp,Teynampet,Paid,9,COVAXIN
+22-07-2021,14:03:02,Dr Mehtas Hospitals,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,14:03:02,Dr Mehtas Hospitals,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:03:02,Dr Mehtas Hospitals,Anna Nagar,Paid,24,COVAXIN
+22-07-2021,14:03:02,Billroth Hospitals,Anna Nagar,Paid,57,COVAXIN
+22-07-2021,14:03:02,Billroth Hospitals,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:03:02,MGM Hospital Pvt Limited,Anna Nagar,Paid,192,COVAXIN
+22-07-2021,14:03:02,MGM Hospital Pvt Limited,Anna Nagar,Paid,180,COVAXIN
+22-07-2021,14:03:02,Apollo Spectra Hospita,Adyar,Paid,19,COVAXIN
+22-07-2021,14:03:02,Fortis Hospitals Vadapalani,Kodambakkam,Paid,50,COVAXIN
+22-07-2021,14:03:02,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,14:03:02,Fortis Hospitals Vadapalani,Kodambakkam,Paid,58,COVAXIN
+22-07-2021,14:03:02,Vijaya Health Centre,Kodambakkam,Paid,15,COVAXIN
+22-07-2021,14:03:02,Vijaya Health Centre,Kodambakkam,Paid,23,COVAXIN
+22-07-2021,14:03:02,Fortis Malar Hospital,Adyar,Paid,4,COVAXIN
+22-07-2021,14:03:02,Fortis Malar Hospital,Adyar,Paid,2,COVAXIN
+22-07-2021,14:03:02,MINT HOSPITAL,Adyar,Paid,135,COVAXIN
+22-07-2021,14:03:02,MINT HOSPITAL,Adyar,Paid,144,COVAXIN
+22-07-2021,14:03:02,MINT HOSPITAL,Adyar,Paid,185,COVAXIN
+22-07-2021,14:03:02,MINT HOSPITAL,Adyar,Paid,191,COVAXIN
+22-07-2021,14:03:02,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:03:02,ISWARYA FERTILITY CENTRES,Adyar,Paid,94,COVAXIN
+22-07-2021,14:03:02,ISWARYA FERTILITY CENTRES,Adyar,Paid,93,COVAXIN
+22-07-2021,14:03:02,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:03:02,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:03:02,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:03:02,ISWARYA FERTILITY CENTRES,Adyar,Paid,86,COVAXIN
+22-07-2021,14:03:02,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,74,COVAXIN
+22-07-2021,14:03:02,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,16,COVAXIN
+22-07-2021,14:03:02,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,45,COVAXIN
+22-07-2021,14:03:02,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,46,COVAXIN
+22-07-2021,14:03:02,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:03:02,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:03:02,Cloudnine Hospital -,Kodambakkam,Paid,79,COVAXIN
+22-07-2021,14:03:02,Rainbow Childrens Medicare,Adyar,Paid,223,COVAXIN
+22-07-2021,14:03:02,Rainbow Childrens Medicare,Adyar,Paid,219,COVAXIN
+22-07-2021,14:03:02,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,14:03:02,Apollo Childrens Hospital,Tondiarpet,Paid,125,COVAXIN
+22-07-2021,14:03:02,Apollo Childrens Hospital,Tondiarpet,Paid,147,COVAXIN
+22-07-2021,14:03:02,Apollo Mains Greams,Teynampet,Paid,66,COVAXIN
+22-07-2021,14:03:02,Apollo Mains Greams,Teynampet,Paid,77,COVAXIN
+22-07-2021,14:03:02,Apollo Mains Greams,Teynampet,Paid,65,COVAXIN
+22-07-2021,14:03:02,Apollo Mains Greams,Teynampet,Paid,117,COVAXIN
+22-07-2021,14:03:02,Kavery Hospital,Teynampet,Paid,49,COVAXIN
+22-07-2021,14:06:29,Apollo Proton Hospital,Perungudi,Paid,199,COVAXIN
+22-07-2021,14:06:29,Apollo Spec Hosp OMR,Perungudi,Paid,47,COVAXIN
+22-07-2021,14:06:29,Apollo Medical Centre - Kpm,Sholinganallur,Paid,42,COVAXIN
+22-07-2021,14:06:29,Dr Kamakshi Memorial,Perungudi,Paid,70,COVAXIN
+22-07-2021,14:06:29,Dr Kamakshi Memorial,Perungudi,Paid,92,COVAXIN
+22-07-2021,14:06:29,APOLLO CLINIC MADIPAKAM,Perungudi,Paid,20,COVAXIN
+22-07-2021,14:06:29,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,52,COVAXIN
+22-07-2021,14:06:29,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:06:29,VIHAA HOSPITAL,Anna Nagar,Paid,118,COVAXIN
+22-07-2021,14:06:29,VIHAA HOSPITAL,Anna Nagar,Paid,119,COVAXIN
+22-07-2021,14:06:29,VIHAA HOSPITAL,Anna Nagar,Paid,110,COVAXIN
+22-07-2021,14:06:29,VIHAA HOSPITAL,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:06:29,Apollo Clinic Valasaravakkam,Valasaravakkam,Paid,17,COVAXIN
+22-07-2021,14:06:29,Apollo Hospital Tondiarpet,Tondiarpet,Paid,88,COVAXIN
+22-07-2021,14:06:29,Porur SRMC,Valasaravakkam,Paid,94,COVAXIN
+22-07-2021,14:06:29,Porur SRMC,Valasaravakkam,Paid,215,COVAXIN
+22-07-2021,14:06:29,Porur SRMC,Valasaravakkam,Paid,216,COVAXIN
+22-07-2021,14:06:29,B M Hospitals,Alandur,Paid,117,COVAXIN
+22-07-2021,14:06:29,B M Hospitals,Alandur,Paid,107,COVAXIN
+22-07-2021,14:06:29,B M Hospitals,Alandur,Paid,193,COVAXIN
+22-07-2021,14:06:29,B M Hospitals,Alandur,Paid,196,COVAXIN
+22-07-2021,14:06:29,Apollo Clinic VELACHEY,Adyar,Paid,20,COVAXIN
+22-07-2021,14:06:29,Apollo Clinic VELACHEY,Adyar,Paid,22,COVAXIN
+22-07-2021,14:06:29,Apollo Fertility,Anna Nagar,Paid,78,COVAXIN
+22-07-2021,14:06:29,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:06:29,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:06:29,THE MADRAS MEDICAL MISSION,Ambattur,Paid,6,COVAXIN
+22-07-2021,14:06:29,Apollo Speciality Hosp,Teynampet,Paid,9,COVAXIN
+22-07-2021,14:06:29,Dr Mehtas Hospitals,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,14:06:29,Dr Mehtas Hospitals,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:06:29,Dr Mehtas Hospitals,Anna Nagar,Paid,24,COVAXIN
+22-07-2021,14:06:29,Billroth Hospitals,Anna Nagar,Paid,57,COVAXIN
+22-07-2021,14:06:29,Billroth Hospitals,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:06:29,MGM Hospital Pvt Limited,Anna Nagar,Paid,192,COVAXIN
+22-07-2021,14:06:29,MGM Hospital Pvt Limited,Anna Nagar,Paid,180,COVAXIN
+22-07-2021,14:06:29,Apollo Spectra Hospita,Adyar,Paid,19,COVAXIN
+22-07-2021,14:06:29,Fortis Hospitals Vadapalani,Kodambakkam,Paid,50,COVAXIN
+22-07-2021,14:06:29,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,14:06:29,Fortis Hospitals Vadapalani,Kodambakkam,Paid,58,COVAXIN
+22-07-2021,14:06:29,Vijaya Health Centre,Kodambakkam,Paid,15,COVAXIN
+22-07-2021,14:06:29,Vijaya Health Centre,Kodambakkam,Paid,23,COVAXIN
+22-07-2021,14:06:29,Fortis Malar Hospital,Adyar,Paid,4,COVAXIN
+22-07-2021,14:06:29,Fortis Malar Hospital,Adyar,Paid,2,COVAXIN
+22-07-2021,14:06:29,MINT HOSPITAL,Adyar,Paid,135,COVAXIN
+22-07-2021,14:06:29,MINT HOSPITAL,Adyar,Paid,144,COVAXIN
+22-07-2021,14:06:29,MINT HOSPITAL,Adyar,Paid,185,COVAXIN
+22-07-2021,14:06:29,MINT HOSPITAL,Adyar,Paid,191,COVAXIN
+22-07-2021,14:06:29,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:06:29,ISWARYA FERTILITY CENTRES,Adyar,Paid,94,COVAXIN
+22-07-2021,14:06:29,ISWARYA FERTILITY CENTRES,Adyar,Paid,93,COVAXIN
+22-07-2021,14:06:29,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:06:29,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:06:29,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:06:29,ISWARYA FERTILITY CENTRES,Adyar,Paid,86,COVAXIN
+22-07-2021,14:06:29,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,74,COVAXIN
+22-07-2021,14:06:29,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,16,COVAXIN
+22-07-2021,14:06:29,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,45,COVAXIN
+22-07-2021,14:06:29,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,46,COVAXIN
+22-07-2021,14:06:29,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:06:29,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:06:29,Cloudnine Hospital -,Kodambakkam,Paid,79,COVAXIN
+22-07-2021,14:06:29,Rainbow Childrens Medicare,Adyar,Paid,223,COVAXIN
+22-07-2021,14:06:29,Rainbow Childrens Medicare,Adyar,Paid,219,COVAXIN
+22-07-2021,14:06:29,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,14:06:29,Apollo Childrens Hospital,Tondiarpet,Paid,125,COVAXIN
+22-07-2021,14:06:29,Apollo Childrens Hospital,Tondiarpet,Paid,147,COVAXIN
+22-07-2021,14:06:29,Apollo Mains Greams,Teynampet,Paid,66,COVAXIN
+22-07-2021,14:06:29,Apollo Mains Greams,Teynampet,Paid,77,COVAXIN
+22-07-2021,14:06:29,Apollo Mains Greams,Teynampet,Paid,65,COVAXIN
+22-07-2021,14:06:29,Apollo Mains Greams,Teynampet,Paid,117,COVAXIN
+22-07-2021,14:06:29,Kavery Hospital,Teynampet,Paid,49,COVAXIN
+22-07-2021,14:08:30,Apollo Proton Hospital,Perungudi,Paid,199,COVAXIN
+22-07-2021,14:08:30,Apollo Spec Hosp OMR,Perungudi,Paid,47,COVAXIN
+22-07-2021,14:08:30,Apollo Medical Centre - Kpm,Sholinganallur,Paid,42,COVAXIN
+22-07-2021,14:08:30,Dr Kamakshi Memorial,Perungudi,Paid,70,COVAXIN
+22-07-2021,14:08:30,Dr Kamakshi Memorial,Perungudi,Paid,92,COVAXIN
+22-07-2021,14:08:30,APOLLO CLINIC MADIPAKAM,Perungudi,Paid,20,COVAXIN
+22-07-2021,14:08:30,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,52,COVAXIN
+22-07-2021,14:08:30,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:08:30,VIHAA HOSPITAL,Anna Nagar,Paid,118,COVAXIN
+22-07-2021,14:08:30,VIHAA HOSPITAL,Anna Nagar,Paid,119,COVAXIN
+22-07-2021,14:08:30,VIHAA HOSPITAL,Anna Nagar,Paid,111,COVAXIN
+22-07-2021,14:08:30,VIHAA HOSPITAL,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,14:08:30,Apollo Clinic Valasaravakkam,Valasaravakkam,Paid,17,COVAXIN
+22-07-2021,14:08:30,Apollo Hospital Tondiarpet,Tondiarpet,Paid,88,COVAXIN
+22-07-2021,14:08:30,Porur SRMC,Valasaravakkam,Paid,94,COVAXIN
+22-07-2021,14:08:30,Porur SRMC,Valasaravakkam,Paid,215,COVAXIN
+22-07-2021,14:08:30,Porur SRMC,Valasaravakkam,Paid,216,COVAXIN
+22-07-2021,14:08:30,B M Hospitals,Alandur,Paid,117,COVAXIN
+22-07-2021,14:08:30,B M Hospitals,Alandur,Paid,107,COVAXIN
+22-07-2021,14:08:30,B M Hospitals,Alandur,Paid,193,COVAXIN
+22-07-2021,14:08:30,B M Hospitals,Alandur,Paid,196,COVAXIN
+22-07-2021,14:08:30,Apollo Clinic VELACHEY,Adyar,Paid,20,COVAXIN
+22-07-2021,14:08:30,Apollo Clinic VELACHEY,Adyar,Paid,23,COVAXIN
+22-07-2021,14:08:30,Apollo Fertility,Anna Nagar,Paid,78,COVAXIN
+22-07-2021,14:08:30,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:08:30,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:08:30,THE MADRAS MEDICAL MISSION,Ambattur,Paid,6,COVAXIN
+22-07-2021,14:08:30,Apollo Speciality Hosp,Teynampet,Paid,9,COVAXIN
+22-07-2021,14:08:30,Dr Mehtas Hospitals,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,14:08:30,Dr Mehtas Hospitals,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:08:30,Dr Mehtas Hospitals,Anna Nagar,Paid,24,COVAXIN
+22-07-2021,14:08:30,Billroth Hospitals,Anna Nagar,Paid,57,COVAXIN
+22-07-2021,14:08:30,Billroth Hospitals,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:08:30,MGM Hospital Pvt Limited,Anna Nagar,Paid,192,COVAXIN
+22-07-2021,14:08:30,MGM Hospital Pvt Limited,Anna Nagar,Paid,180,COVAXIN
+22-07-2021,14:08:30,Apollo Spectra Hospita,Adyar,Paid,19,COVAXIN
+22-07-2021,14:08:30,Fortis Hospitals Vadapalani,Kodambakkam,Paid,50,COVAXIN
+22-07-2021,14:08:30,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,14:08:30,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,14:08:30,Vijaya Health Centre,Kodambakkam,Paid,15,COVAXIN
+22-07-2021,14:08:30,Vijaya Health Centre,Kodambakkam,Paid,23,COVAXIN
+22-07-2021,14:08:30,Fortis Malar Hospital,Adyar,Paid,4,COVAXIN
+22-07-2021,14:08:30,Fortis Malar Hospital,Adyar,Paid,2,COVAXIN
+22-07-2021,14:08:30,MINT HOSPITAL,Adyar,Paid,135,COVAXIN
+22-07-2021,14:08:30,MINT HOSPITAL,Adyar,Paid,144,COVAXIN
+22-07-2021,14:08:30,MINT HOSPITAL,Adyar,Paid,185,COVAXIN
+22-07-2021,14:08:30,MINT HOSPITAL,Adyar,Paid,191,COVAXIN
+22-07-2021,14:08:30,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:08:30,ISWARYA FERTILITY CENTRES,Adyar,Paid,94,COVAXIN
+22-07-2021,14:08:30,ISWARYA FERTILITY CENTRES,Adyar,Paid,93,COVAXIN
+22-07-2021,14:08:30,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:08:30,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:08:30,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:08:30,ISWARYA FERTILITY CENTRES,Adyar,Paid,86,COVAXIN
+22-07-2021,14:08:30,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,74,COVAXIN
+22-07-2021,14:08:30,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,16,COVAXIN
+22-07-2021,14:08:30,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,45,COVAXIN
+22-07-2021,14:08:30,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,46,COVAXIN
+22-07-2021,14:08:30,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:08:30,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:08:30,Cloudnine Hospital -,Kodambakkam,Paid,79,COVAXIN
+22-07-2021,14:08:30,Rainbow Childrens Medicare,Adyar,Paid,223,COVAXIN
+22-07-2021,14:08:30,Rainbow Childrens Medicare,Adyar,Paid,219,COVAXIN
+22-07-2021,14:08:30,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,14:08:30,Apollo Childrens Hospital,Tondiarpet,Paid,125,COVAXIN
+22-07-2021,14:08:30,Apollo Childrens Hospital,Tondiarpet,Paid,147,COVAXIN
+22-07-2021,14:08:30,Apollo Mains Greams,Teynampet,Paid,66,COVAXIN
+22-07-2021,14:08:30,Apollo Mains Greams,Teynampet,Paid,77,COVAXIN
+22-07-2021,14:08:30,Apollo Mains Greams,Teynampet,Paid,65,COVAXIN
+22-07-2021,14:08:30,Apollo Mains Greams,Teynampet,Paid,117,COVAXIN
+22-07-2021,14:08:30,Kavery Hospital,Teynampet,Paid,49,COVAXIN
+22-07-2021,14:08:49,Apollo Proton Hospital,Perungudi,Paid,199,COVAXIN
+22-07-2021,14:08:49,Apollo Spec Hosp OMR,Perungudi,Paid,47,COVAXIN
+22-07-2021,14:08:49,Apollo Medical Centre - Kpm,Sholinganallur,Paid,42,COVAXIN
+22-07-2021,14:08:49,Dr Kamakshi Memorial,Perungudi,Paid,70,COVAXIN
+22-07-2021,14:08:49,Dr Kamakshi Memorial,Perungudi,Paid,92,COVAXIN
+22-07-2021,14:08:49,APOLLO CLINIC MADIPAKAM,Perungudi,Paid,20,COVAXIN
+22-07-2021,14:08:49,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,52,COVAXIN
+22-07-2021,14:08:49,APOLLO MEDICAL CENTRE-,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:08:49,VIHAA HOSPITAL,Anna Nagar,Paid,118,COVAXIN
+22-07-2021,14:08:49,VIHAA HOSPITAL,Anna Nagar,Paid,119,COVAXIN
+22-07-2021,14:08:49,VIHAA HOSPITAL,Anna Nagar,Paid,111,COVAXIN
+22-07-2021,14:08:49,VIHAA HOSPITAL,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,14:08:49,Apollo Clinic Valasaravakkam,Valasaravakkam,Paid,17,COVAXIN
+22-07-2021,14:08:49,Apollo Hospital Tondiarpet,Tondiarpet,Paid,88,COVAXIN
+22-07-2021,14:08:49,Porur SRMC,Valasaravakkam,Paid,94,COVAXIN
+22-07-2021,14:08:49,Porur SRMC,Valasaravakkam,Paid,215,COVAXIN
+22-07-2021,14:08:49,Porur SRMC,Valasaravakkam,Paid,216,COVAXIN
+22-07-2021,14:08:49,B M Hospitals,Alandur,Paid,117,COVAXIN
+22-07-2021,14:08:49,B M Hospitals,Alandur,Paid,107,COVAXIN
+22-07-2021,14:08:49,B M Hospitals,Alandur,Paid,193,COVAXIN
+22-07-2021,14:08:49,B M Hospitals,Alandur,Paid,196,COVAXIN
+22-07-2021,14:08:49,Apollo Clinic VELACHEY,Adyar,Paid,20,COVAXIN
+22-07-2021,14:08:49,Apollo Clinic VELACHEY,Adyar,Paid,23,COVAXIN
+22-07-2021,14:08:49,Apollo Fertility,Anna Nagar,Paid,78,COVAXIN
+22-07-2021,14:08:49,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:08:49,THE MADRAS MEDICAL MISSION,Ambattur,Paid,3,COVAXIN
+22-07-2021,14:08:49,THE MADRAS MEDICAL MISSION,Ambattur,Paid,6,COVAXIN
+22-07-2021,14:08:49,Apollo Speciality Hosp,Teynampet,Paid,9,COVAXIN
+22-07-2021,14:08:49,Dr Mehtas Hospitals,Anna Nagar,Paid,30,COVAXIN
+22-07-2021,14:08:49,Dr Mehtas Hospitals,Anna Nagar,Paid,29,COVAXIN
+22-07-2021,14:08:49,Dr Mehtas Hospitals,Anna Nagar,Paid,24,COVAXIN
+22-07-2021,14:08:49,Billroth Hospitals,Anna Nagar,Paid,57,COVAXIN
+22-07-2021,14:08:49,Billroth Hospitals,Anna Nagar,Paid,74,COVAXIN
+22-07-2021,14:08:49,MGM Hospital Pvt Limited,Anna Nagar,Paid,192,COVAXIN
+22-07-2021,14:08:49,MGM Hospital Pvt Limited,Anna Nagar,Paid,180,COVAXIN
+22-07-2021,14:08:49,Apollo Spectra Hospita,Adyar,Paid,19,COVAXIN
+22-07-2021,14:08:49,Fortis Hospitals Vadapalani,Kodambakkam,Paid,50,COVAXIN
+22-07-2021,14:08:49,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,14:08:49,Fortis Hospitals Vadapalani,Kodambakkam,Paid,57,COVAXIN
+22-07-2021,14:08:49,Vijaya Health Centre,Kodambakkam,Paid,15,COVAXIN
+22-07-2021,14:08:49,Vijaya Health Centre,Kodambakkam,Paid,23,COVAXIN
+22-07-2021,14:08:49,Fortis Malar Hospital,Adyar,Paid,4,COVAXIN
+22-07-2021,14:08:49,Fortis Malar Hospital,Adyar,Paid,2,COVAXIN
+22-07-2021,14:08:49,MINT HOSPITAL,Adyar,Paid,135,COVAXIN
+22-07-2021,14:08:49,MINT HOSPITAL,Adyar,Paid,144,COVAXIN
+22-07-2021,14:08:49,MINT HOSPITAL,Adyar,Paid,185,COVAXIN
+22-07-2021,14:08:49,MINT HOSPITAL,Adyar,Paid,191,COVAXIN
+22-07-2021,14:08:49,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:08:49,ISWARYA FERTILITY CENTRES,Adyar,Paid,94,COVAXIN
+22-07-2021,14:08:49,ISWARYA FERTILITY CENTRES,Adyar,Paid,93,COVAXIN
+22-07-2021,14:08:49,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:08:49,ISWARYA FERTILITY CENTRES,Adyar,Paid,95,COVAXIN
+22-07-2021,14:08:50,ISWARYA FERTILITY CENTRES,Adyar,Paid,100,COVAXIN
+22-07-2021,14:08:50,ISWARYA FERTILITY CENTRES,Adyar,Paid,86,COVAXIN
+22-07-2021,14:08:50,Apollo Spectra-Alwarpet-CVXIN,Teynampet,Paid,74,COVAXIN
+22-07-2021,14:08:50,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,16,COVAXIN
+22-07-2021,14:08:50,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,45,COVAXIN
+22-07-2021,14:08:50,APOLLO MEDICAL CENTRE -T NAGAR,Teynampet,Paid,46,COVAXIN
+22-07-2021,14:08:50,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:08:50,Cloudnine Hospital -,Kodambakkam,Paid,90,COVAXIN
+22-07-2021,14:08:50,Cloudnine Hospital -,Kodambakkam,Paid,79,COVAXIN
+22-07-2021,14:08:50,Rainbow Childrens Medicare,Adyar,Paid,223,COVAXIN
+22-07-2021,14:08:50,Rainbow Childrens Medicare,Adyar,Paid,219,COVAXIN
+22-07-2021,14:08:50,Rainbow Childrens Medicare,Adyar,Paid,218,COVAXIN
+22-07-2021,14:08:50,Apollo Childrens Hospital,Tondiarpet,Paid,125,COVAXIN
+22-07-2021,14:08:50,Apollo Childrens Hospital,Tondiarpet,Paid,147,COVAXIN
+22-07-2021,14:08:50,Apollo Mains Greams,Teynampet,Paid,66,COVAXIN
+22-07-2021,14:08:50,Apollo Mains Greams,Teynampet,Paid,77,COVAXIN
+22-07-2021,14:08:50,Apollo Mains Greams,Teynampet,Paid,65,COVAXIN
+22-07-2021,14:08:50,Apollo Mains Greams,Teynampet,Paid,117,COVAXIN
+22-07-2021,14:08:50,Kavery Hospital,Teynampet,Paid,49,COVAXIN
